@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Inventory-Management-SPA/static/css/main.d20202a4.css",
+    "main.js": "/Inventory-Management-SPA/static/js/main.9c2e1c21.js",
+    "static/js/787.645724f8.chunk.js": "/Inventory-Management-SPA/static/js/787.645724f8.chunk.js",
+    "index.html": "/Inventory-Management-SPA/index.html",
+    "main.d20202a4.css.map": "/Inventory-Management-SPA/static/css/main.d20202a4.css.map",
+    "main.9c2e1c21.js.map": "/Inventory-Management-SPA/static/js/main.9c2e1c21.js.map",
+    "787.645724f8.chunk.js.map": "/Inventory-Management-SPA/static/js/787.645724f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.9c2e1c21.js"
+  ]
+}
