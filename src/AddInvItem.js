@@ -58,7 +58,6 @@ export default function AddInvItem(props) {
             Add Item
           </button>
         </div>
-        <p>{price}</p>
       </div>
     );
 }

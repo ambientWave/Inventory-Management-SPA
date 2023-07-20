@@ -64,12 +64,6 @@ export default function SearchBar(props) {
             </button>
           </div>
         </div>
-        <div className="row mt-3">
-          <div className="col-10"/>
-            
-        </div>
-
-        <p>{price}</p>
       </div>
     );
 }
