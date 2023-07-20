@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "name": "SelokenZoc 25 MG 28 TAB",
-      "price": "73",
-      "type": "Anti-Hypertensive",
-      "brand": "AstraZeneca",
+      "name": "Air Force 1 (White-38)",
+      "price": "140",
+      "type": "Sneakers",
+      "brand": "Nike",
       "id": 1
     },
     {
-      "name": "Cataflam 50 MG 30 TAB",
-      "price": "68",
-      "type": "Anti-Inflammatory.NSAID",
-      "brand": "GlaxoSmithKleine",
+      "name": "Denim Jacket (Light Blue-24)",
+      "price": "299",
+      "type": "Outerwear",
+      "brand": "Zara",
       "id": 2
     }
   ]
