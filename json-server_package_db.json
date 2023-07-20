@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "SelokenZoc 25 MG 28 TAB",
+      "price": "73",
+      "type": "Anti-Hypertensive",
+      "brand": "AstraZeneca",
+      "id": 1
+    },
+    {
+      "name": "Cataflam 50 MG 30 TAB",
+      "price": "68",
+      "type": "Anti-Inflammatory.NSAID",
+      "brand": "GlaxoSmithKleine",
+      "id": 2
+    }
+  ]
+}
