@@ -22,7 +22,7 @@ Once you run the 'json-server' package, the deployed app can be found [here](htt
 ## Technology
 - HTML5, CSS, Bootstrap
 - Javascript, Webpack, React
-- json-server
+- Node.js, npm, npx, json-server
 
 ## Available Scripts
 
