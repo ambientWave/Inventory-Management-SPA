@@ -3,9 +3,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Application Screenshot
+
 <picture>
  <img alt="Screenshot" src="https://raw.githubusercontent.com/ambientWave/Inventory-Management-SPA/main/public/Image_1.png">
 </picture>
+
+## Instructions
+
+To run the application correctly, you must download and install the npm package 'json-server' that acts as our storing database\
+then navigate your way in the terminal to your working directory and create a JSON file that acts as the database table.
+### `npx json-server "json-server_package_db.json" -p 3001`
 
 ## Available Scripts
 
