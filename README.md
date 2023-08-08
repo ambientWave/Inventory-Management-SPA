@@ -10,7 +10,7 @@ This project was created using ReactJS and Bootstrap to manage an inventory of i
 
 ## Instructions for Running the Already-hosted Application
 
-To run the hosted application correctly, you must download and install the npm package 'json-server' that acts as our storing\
+To run the hosted application correctly, you must download and install the npm package 'json-server' that acts as our storing
 database then navigate your way in the terminal to your working directory and put the JSON shipped with the project\
 in your working directory that would act as the database table; the JSON file is located [here](https://raw.githubusercontent.com/ambientWave/Inventory-Management-SPA/main/json-server_package_db.json).
 Finally, run the following line:
@@ -19,8 +19,6 @@ Finally, run the following line:
 
 Once you run the 'json-server' package, the deployed app can be found [here](https://ambientwave.github.io/Inventory-Management-SPA/).
 
-## Instructions for cloning and Running the Application On your Local Machine
-
 ## Technology
 - HTML5, CSS, Bootstrap
 - Javascript, Webpack, React
@@ -28,7 +26,7 @@ Once you run the 'json-server' package, the deployed app can be found [here](htt
 
 
 <details>
-<summary>## Available npm Scripts</summary>
+<summary>Available npm Scripts</summary>
 
 ## Available Scripts
 
