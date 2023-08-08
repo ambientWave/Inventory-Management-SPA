@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Application Screenshot
+<picture>
+ <img alt="Screenshot" src="https://raw.githubusercontent.com/ambientWave/Inventory-Management-SPA/main/public/Image_1.png">
+</picture>
+
 ## Available Scripts
 
 In the project directory, you can run:
