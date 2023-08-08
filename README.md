@@ -11,9 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Instructions
 
 To run the application correctly, you must download and install the npm package 'json-server' that acts as our storing\
-database then navigate your way in the terminal to your working directory and put the JSON shipped with the project
-in your working directory that would act as the database table; the file is located at 
-https://raw.githubusercontent.com/ambientWave/Inventory-Management-SPA/main/json-server_package_db.json.
+database then navigate your way in the terminal to your working directory and put the JSON shipped with the project\
+in your working directory that would act as the database table; the JSON file is located [here](https://raw.githubusercontent.com/ambientWave/Inventory-Management-SPA/main/json-server_package_db.json).
 Finally, run the following line:
 
 ### `npx json-server "json-server_package_db.json" -p 3001`
