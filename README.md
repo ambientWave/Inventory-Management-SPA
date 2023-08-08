@@ -17,6 +17,8 @@ Finally, run the following line:
 
 ### `npx json-server "json-server_package_db.json" -p 3001`
 
+Once you run the 'json-server' package, the deployed app can be found [here](https://ambientwave.github.io/Inventory-Management-SPA/).
+
 ## Available Scripts
 
 In the project directory, you can run:
