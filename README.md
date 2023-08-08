@@ -19,6 +19,11 @@ Finally, run the following line:
 
 Once you run the 'json-server' package, the deployed app can be found [here](https://ambientwave.github.io/Inventory-Management-SPA/).
 
+## Technology
+- HTML5, CSS, Bootstrap
+- Javascript, Webpack, React
+- json-server
+
 ## Available Scripts
 
 In the project directory, you can run:
