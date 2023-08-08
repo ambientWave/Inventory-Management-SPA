@@ -1,6 +1,6 @@
 # Inventory Management Single-Page App
 
-This project was created using ReactJS to manage an inventory of items.
+This project was created using ReactJS and Bootstrap to manage an inventory of items.
 
 ## Application Screenshot
 
@@ -26,7 +26,7 @@ Once you run the 'json-server' package, the deployed app can be found [here](htt
 
 
 <details>
-<summary>Available npm Scripts</summary>
+<summary>## Available npm Scripts</summary>
 
 ## Available Scripts
 
