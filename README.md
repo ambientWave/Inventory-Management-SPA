@@ -1,6 +1,6 @@
 # Inventory Management Single-page App
 
-This project was created using ReactJS and Bootstrap to manage an inventory of items.
+This project was created using ReactJS and Bootstrap frameworks to manage an inventory of items.
 
 ## Application Screenshot
 
